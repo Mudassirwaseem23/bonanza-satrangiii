@@ -1,0 +1,169 @@
+@font-face{
+    font-family: "Rajdhani";
+    src: url('Rajdhani-Medium.ttf');
+}
+.a{
+    width: 600px;
+}
+@media only screen and (max-width: 600px){
+.a {
+    width: 500px;
+}    
+}
+@media only screen and (max-width: 500px){
+    .a {
+        width: 400px;
+    }    
+    }
+@media only screen and (max-width: 400px){
+     .a{
+        width: 300px;
+    }    
+    }
+
+        
+        
+#carouselExampleIndicators{
+    margin-top: 20px;
+}
+
+.b{
+    text-align: center;
+    font-weight: bolder ;
+    font-size: 62px;
+    margin-top: 40px;
+border: 1px solid;
+text-decoration: underline;
+background-color: gray;
+color: white;
+
+}
+
+.c{
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    margin: 20px;
+    font-weight: bolder ;
+    text-shadow: 2px 2px 3px #C0C0C0;
+    padding: 40px;
+
+}
+.CATEGORIES{
+margin-top: 30px;
+
+}
+.card{
+    height: auto;
+    width: 250px;
+    margin-bottom: 50px;
+}
+.navbar {
+    background-color: #C0C0C0 !important;
+    font-family: "Rajdhani";
+    color: violet !important;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.x{
+    padding: 10px;
+    margin: 10px;
+}
+}
+.CATEGORIES2{
+    margin-top: 30px;
+}
+.d{
+    text-align: center;
+    margin: 70px;
+    font-family: cursive;
+    text-decoration: underline;
+
+    font-weight: bolder ;
+    text-shadow: 2px 2px 3px #C0C0C0;
+    margin-top: 10px;
+}
+.e{
+    text-align: center;
+    margin: 70px;
+    font-family: cursive;
+    font-weight: bolder ;
+    text-decoration: underline;
+
+    text-shadow: 2px 2px 3px #C0C0C0;
+    margin-top: 10px;
+
+}
+.btn{
+    background-color: #0f0f0a !important;
+    color: white !important;
+    width: 100%;
+    padding: 10px !important;
+    
+}
+
+.f{
+    background-color: #111109;
+    height: 300px;
+    width: 100%;
+    color: white;
+    margin: 20px;
+    padding: 60px;
+    
+
+}
+marquee{
+    border-radius: 10px;
+    text-align: center;
+    background-color: #C0C0C0;
+    width: 90%;
+    color: black;
+    margin-top: 30px;
+    height: 30px;
+    margin-left: 40px;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+
+.image1{
+    width: 90%;
+    margin: 20px;
+    text-align: center;
+}
+.t{
+    background-color: blue;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+
+.container1{
+    background-color: #0f0f0a ;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.footer-copyright{
+    background-color: #0f0f0a;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
